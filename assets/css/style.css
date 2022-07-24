@@ -12,7 +12,7 @@ body {
 }
 
 /* logo and headings */
-h1, h2 {
+h1,h2 {
     font-family: Raleway, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -20,9 +20,12 @@ h1, h2 {
 
 }
 
+
+
 #logo {
     float: left;
     font-size: 200%;
+    margin-left: 25px;
     
 }
 
@@ -95,4 +98,5 @@ h1, h2 {
 
     position: relative;
 }
+
 
