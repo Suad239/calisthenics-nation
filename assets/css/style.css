@@ -101,7 +101,9 @@ h1,h2 {
 
 /* footer*/
 footer {
-height: 150px;
+height: 10px;
+width: 100%;
+
 }
 
 .social-media {
