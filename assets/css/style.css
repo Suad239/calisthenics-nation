@@ -55,3 +55,16 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #3b3b3b;
 }
+
+/* add hero image */
+#hero-image {
+    height:640px;
+    width: 100%;
+    background: url('../images/hero-image.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    overflow: hidden;
+    background-size: cover;
+
+}
+
