@@ -144,9 +144,14 @@ width: 100%;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
+    overflow: hidden;
+    position: relative;
     
     
 }
+
+#contact-hero-image >img {
+    width:100%;
 
 
 #contact-hero-image-section {
