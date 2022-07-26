@@ -133,3 +133,14 @@ width: 100%;
     width:100%;
 
 }
+
+/* contact us hero image*/
+
+#contact-hero-images {
+    height:640px;
+    width: 100%;
+    background: url('../images/pexels-marcus-aurelius-6787357.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
