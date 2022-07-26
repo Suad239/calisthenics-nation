@@ -95,8 +95,18 @@ h1,h2 {
     height:640px;
     width: 100%;
     overflow: hidden;
-
     position: relative;
+}
+
+.right-about {
+    width:50%;
+    float:right;
+    text-align: right;
+    line-height: 20px;
+    margin-bottom: 50px;
+    margin-left: 50%;
+    clear: both;
+    vertical-align: right;
 }
 
 /* footer*/
