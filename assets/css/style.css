@@ -162,7 +162,7 @@ width: 100%;
 
 #contact-hero-image >img {
     width:100%;
-
+}
 
 #contact-hero-image-section {
     height: 640px;
@@ -170,3 +170,15 @@ width: 100%;
     overflow: hidden;
     position: relative;
 }
+
+/*media queries*/
+*/for large and medium screen sizes 1200px wide and below*/
+
+@media and (max-width:1200px) {
+ #contact-hero-image-section 
+    width:60px;
+    height:1200px;
+    margin:0 auto;
+    
+
+    }
