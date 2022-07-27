@@ -124,6 +124,20 @@ h3 {
     vertical-align: right;
 }
 
+.about-us-container {
+
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 20px;
+    margin-right:20px;
+    justify-content:left;
+    list-style-position: inside;
+}
+ 
+.about-us-header {
+    text-align: center;
+}
+
 /* footer*/
 footer {
 height: 10px;
@@ -189,7 +203,7 @@ width: 100%;
 /*media queries*/
 */for large and medium screen sizes 1200px wide and below*/
 
-@media and (max-width:1200px) {
+@media screen and (max-width:1200px) {
  #contact-hero-image-section 
     width:60px;
     height:1200px;
