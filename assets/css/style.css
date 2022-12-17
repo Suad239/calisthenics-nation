@@ -125,13 +125,45 @@ h3 {
 }
 
 .about-us-container {
-
     margin-top: 30px;
     text-align: center;
     margin-left: 20px;
     margin-right:20px;
     justify-content:left;
     list-style-position: inside;
+    padding: 30px;
+    background-color:#cfe2f3;
+    font-size: 20px;
+}
+
+.why-us {
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 20px;
+    margin-right:20px;
+    justify-content:left;
+    list-style-position: inside;
+    padding: 30px;
+    background-color:#fbefdf;
+    font-size: 20px;
+}
+.benefits {
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 20px;
+    margin-right:20px;
+    padding-bottom: 100px;
+    justify-content:left;
+    list-style-position: inside;
+    padding: 30px;
+    background-color:#cfe2f3;
+    font-size: 20px;
+
+}
+.benefits-flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
  
 .about-us-header {
